@@ -16,7 +16,7 @@ To have this third party introduces centralization. If ensures the Bridge betwee
 Solution -
 To form a digital entity that is tokenized,fractionally owned and legally recognized as a body. 
 It can take automated, or limited action and keep physical objects. 
-Example: a community (street) own pieces of a smart nft. This NFT is a foundation.
+Example: a community (street) own pieces of a smart nft. This NFT is a foundation or even a company.
 It is programmed to buy and sell a car every 6 years. It recieves and sends out maintenance and usage requests.
 It pays out to repairshops and charges its owners.
 
