@@ -11,7 +11,7 @@ Custodial Bridge.
 An NFT often represents a digital good or service, since custody is easy to connect to it and proof on the blockchain.
 If the token represents or owns physical goods or services, there needs to be a custodial bridge.
 An example is the museum that keeps a physical painting, while it is tokenized and sold as an NFT.
-To have this third party introduces centralization. If ensures the Bridge betreden th physical object and the digital ownership.
+To have this third party introduces centralization. If ensures the Bridge between the physical object and the digital ownership.
 
 Solution
 To form a digital entity that is tokenized,fractionally owned and legally recognized as a body. 
