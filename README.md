@@ -1,4 +1,4 @@
-# Smart-Fractionalized-NFT _ Concept/Draft version 2021 08 14
+# Smart-Fractionalized-NFT Coorporations_ Concept/Draft version 2021 08 14
 Smart NFT - Fractionalized sharing
 
 Problem  Goods Sharing -
