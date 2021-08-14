@@ -1,7 +1,7 @@
 # Smart-Fractionalized-NFT _ Concept/Draft version 2021 08 14
 Smart NFT - Fractionalized sharing
 
-Problem _ Goods Sharing _
+Problem  Goods Sharing -
 Typically sharing of assets occurs by subscribing to a centralized service.
 There is an entity that owns the assets. The users rent the right of usage using a subscription. 
 For example a centralized car sharing service.
